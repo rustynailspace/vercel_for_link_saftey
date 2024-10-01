@@ -1,0 +1,17 @@
+{
+    "name": "check-url",
+    "version": "1.0.0",
+    "main": "api/check-url.js",
+    "scripts": {
+      "dev": "vercel dev",
+      "build": "vercel build",
+      "start": "vercel start"
+    },
+    "dependencies": {
+      // Add your dependencies here
+    },
+    "devDependencies": {
+      "vercel": "^latest"
+    }
+  }
+  
